@@ -19,3 +19,5 @@ When first opening a file there is a complete fear of not knowing how to achieve
 I changed the title from website to Horiseon (since that's the name of the company). I added a header tag, changed a div to main, changed some divs to sections, changed a div to aside, added a footer. 
 
 As of right now, one thing I am not happy with is the link to the online-engine-optimization. The page does not appear to move, I would like this to move to the search optimization section. 
+
+Condensed CSS to avoid repeats. 
