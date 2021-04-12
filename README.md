@@ -1,7 +1,7 @@
 # horiseon
 h/w 01 HTML, CSS, and Git: Code Refactor - Horiseon business reputation management
 
-<img src="images/screenshot.jpg">
+<img src="images/screenshot.JPG">
 
 Why and what problem we solve. 
 This is a reafactoring of existing code which the goal is to make it meet web accessibility standards which optimizes the website for search engines. 
